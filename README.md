@@ -1,8 +1,3 @@
-# Hello There! 👋
-
- I am a High Performance Computing Engineer based in Guildford Surrey. 
-
- I specialise in writing low latency C++ & Java applications. 
 
 
 
